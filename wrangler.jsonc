@@ -1,6 +1,7 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "cf-image-s3-demo",
+	"account_id": "5c84e1fce43d312a209a3a7e8c4f4841",
 	"main": ".open-next/worker.js",
 	"compatibility_date": "2025-04-01",
 	"compatibility_flags": ["nodejs_compat"],
